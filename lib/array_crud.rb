@@ -7,12 +7,12 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  my_array = ["data1", "data2"]
+  #my_array = ["data1", "data2"]
   my_array << element 
 end
 
 def add_element_to_start_of_array(array, element)
-  my_array = ["data1", "data2"]
+  #my_array = ["data1", "data2"]
   my_array.unshift(element)
 end
 
